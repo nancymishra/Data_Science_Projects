@@ -1,0 +1,1 @@
+This project is about predicting the level of damage caused to the buildings during an earthquake in Gorkha. It is a classification problem where I have used Random Trees to predict the level of damage caused to different building based on the features provided in the dataset.
